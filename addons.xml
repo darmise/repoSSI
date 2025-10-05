@@ -22,7 +22,6 @@
 		<fanart>fanart.jpg</fanart>
     </assets>
 	</extension>
-  <archive>https://github.com/darmise/repotest/raw/main/packages/plugin.video.SSI-2.0.0.zip</archive>
 </addon>
 
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
@@ -48,6 +47,5 @@
 		<fanart>fanart.jpg</fanart>
     </assets>
 	</extension>
-  <archive>https://github.com/darmise/repotest/raw/main/packages/plugin.video.SSI.zip</archive>
 </addon>
 </addons>
