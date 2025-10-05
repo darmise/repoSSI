@@ -2,7 +2,7 @@
     <extension point="xbmc.addon.repository" name="Testrepo Repository">
         <info compressed="false">https://raw.githubusercontent.com/darmise/repotest/main/addon.xml</info>
         <checksum>https://raw.githubusercontent.com/darmise/repotest/main/addon.xml.md5</checksum>
-        <datadir zip="true">https://darmise.github.io/repotest/packages/</datadir>
+        <datadir zip="true">https://darmise.github.io/repotest/packages/plugin.video.SSI-2.0.0.zip</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Repository for Testrepo</summary>
