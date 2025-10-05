@@ -1,7 +1,6 @@
 <addon id="repository.testrepo" name="Testrepo Repository" version="1.0.0" provider-name="You">
     <extension point="xbmc.addon.repository" name="Testrepo Repository">
         <info compressed="false">https://raw.githubusercontent.com/darmise/repotest/main/addon.xml</info>
-        <checksum>https://raw.githubusercontent.com/darmise/repotest/main/addon.xml.md5</checksum>
         <archive>https://darmise.github.io/repotest/packages/plugin.video.SSI-2.0.0.zip</archive>
     </extension>
     <extension point="xbmc.addon.metadata">
