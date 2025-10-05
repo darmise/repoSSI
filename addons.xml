@@ -22,5 +22,6 @@
 		<fanart>fanart.jpg</fanart>
     </assets>
 	</extension>
+  <archive>https://github.com/darmise/repotest/raw/main/packages/plugin.video.SSI-2.0.0.zip</archive>
 </addon>
 </addons>
