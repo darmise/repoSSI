@@ -23,4 +23,29 @@
     </assets>
 	</extension>
 </addon>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.SSI" name="[COLOR lime] [B] Scraping [/COLOR][COLOR white] Sport[/COLOR] [COLOR red] Italia [/COLOR] [COLOR yellow] 2.0 [/COLOR][/B]" version="2.0.3" provider-name="Admin">
+	<requires>
+		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
+		<import addon="script.module.beautifulsoup4" version="3.2.1"/>
+		<import addon="script.module.requests"  />
+		<import addon="script.module.resolveurl" />
+	
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="it">Fix Agosto 2025. </summary>
+		<disclaimer lang="it">Addon che racchiude i principali siti di streaming italiani.</disclaimer>
+		
+		<platform>all</platform>
+
+		<assets>
+        <icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+    </assets>
+	</extension>
+</addon>
 </addons>
